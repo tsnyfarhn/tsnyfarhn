@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Maxxima Innovative Engineering**
 
-- 📫 How to reach me **tsanyfarhannn@gmail.com**
+- 📫 How to reach me **tsanyfarhann@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tsnyfarhn/](https://www.linkedin.com/in/tsnyfarhn/)
 
