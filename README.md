@@ -4,8 +4,6 @@
 <h2 align="center">Im Software Engineers who is passionate about making Application, Game, and AR using C# and Unity Engine.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsnyfarhn&label=Profile%20views&color=0e75b6&style=flat" alt="tsnyfarhn" /> </p>
 
-- 🔭 I’m currently working on **Maxxima Innovative Engineering**
-
 - 📫 How to reach me **tsanyfarhann@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tsnyfarhn/](https://www.linkedin.com/in/tsnyfarhn/)
@@ -16,6 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsnyfarhn&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsnyfarhn&repo=Car-Showcase&theme=tokyonight&hide_border=true)](https://github.com/tsnyfarhn/Car-Showcase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsnyfarhn&repo=AR-JelajahAlamSekitarku&theme=tokyonight&hide_border=true)](https://github.com/tsnyfarhn/AR-JelajahAlamSekitarku)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsnyfarhn&repo=Marathon-Game&theme=tokyonight&hide_border=true)](https://github.com/tsnyfarhn/Marathon-Game)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
