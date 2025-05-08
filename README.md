@@ -12,7 +12,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsnyfarhn&layout=compact&theme=tokyonight&hide_border=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsnyfarhn&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsnyfarhn&repo=Car-Showcase&theme=tokyonight&hide_border=true)](https://github.com/tsnyfarhn/Car-Showcase)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsnyfarhn&repo=AR-JelajahAlamSekitarku&theme=tokyonight&hide_border=true)](https://github.com/tsnyfarhn/AR-JelajahAlamSekitarku)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsnyfarhn&repo=Marathon-Game&theme=tokyonight&hide_border=true)](https://github.com/tsnyfarhn/Marathon-Game)
 
