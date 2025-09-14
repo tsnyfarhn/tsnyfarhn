@@ -19,6 +19,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsnyfarhn&repo=Marathon-Game&theme=tokyonight&hide_border=true)](https://github.com/tsnyfarhn/Marathon-Game)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsnyfarhn&repo=Toko-Safana&theme=tokyonight&hide_border=true)](https://github.com/tsnyfarhn/Toko-safana)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tsnyfarhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsnyfarhn" height="30" width="40" /></a>
